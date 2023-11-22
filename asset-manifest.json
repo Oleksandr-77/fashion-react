@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/fashion-react/static/css/main.1888b962.css",
+    "main.css": "/fashion-react/static/css/main.9660b4f8.css",
     "main.js": "/fashion-react/static/js/main.b9c2fd15.js",
     "static/media/logo.svg": "/fashion-react/static/media/logo.fa6ed5442940b2375841123db8c623be.svg",
     "index.html": "/fashion-react/index.html",
-    "main.1888b962.css.map": "/fashion-react/static/css/main.1888b962.css.map",
+    "main.9660b4f8.css.map": "/fashion-react/static/css/main.9660b4f8.css.map",
     "main.b9c2fd15.js.map": "/fashion-react/static/js/main.b9c2fd15.js.map"
   },
   "entrypoints": [
-    "static/css/main.1888b962.css",
+    "static/css/main.9660b4f8.css",
     "static/js/main.b9c2fd15.js"
   ]
 }
