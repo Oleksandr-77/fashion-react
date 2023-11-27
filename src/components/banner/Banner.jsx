@@ -24,10 +24,10 @@ const Banner = () => {
             <div className="banner__desc">
               Spend minimal $100 get 30% off voucher code for your next purchase
             </div>
-            <div>1 June - 10 June 2021</div>
-            <div>*Terms & Conditions apply</div>
+            <div className="banner__june">1 June - 10 June 2021</div>
+            <div className="banner__terms">*Terms & Conditions apply</div>
             <div className="banner__btn-wrapper">
-              <a href="#!" className="promo__btn">
+              <a href="#!" className="banner__btn">
                 Shop Now
               </a>
             </div>

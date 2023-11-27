@@ -1,26 +1,89 @@
 .banner {
-  margin-bottom: 63px;
+  margin-bottom: 190px;
 }
 
 .banner__content {
   display: flex;
-
-  padding-top: 68px;
-  padding-left: 120px;
 }
 
-.banner__title {
-  max-width: 680px;
-  margin-bottom: 40px;
-  font-weight: 900;
-  font-size: 96px;
-  line-height: calc(120 / 96);
+.banner__img {
+  margin-left: -200px;
 }
 
 .banner__text {
-  background-color: #e0c340;
+  margin-left: -2px;
+  padding-top: 140px;
+  padding-left: 65px;
+  background: linear-gradient(
+    1deg,
+    #e0c340 0.13%,
+    #dfc23e 3.97%,
+    #e1c441 7.2%,
+    #e3c743 10.13%,
+    #e4c542 12.98%,
+    #e6c744 15.99%,
+    #e7c845 19.52%,
+    #e5c643 23.96%,
+    #e6c945 30.43%,
+    #e3c743 36.49%,
+    #e9ca48 42.49%,
+    #edce49 49.35%,
+    #f0d44c 55.42%,
+    #f4d84f 61.43%,
+    #f6da52 65.74%,
+    #f7db53 72.23%,
+    #f9dd55 77.43%,
+    #f9df56 83.84%,
+    #fae157 91.52%,
+    #f9df56 97.87%
+  );
+}
+
+.banner__title {
+  max-width: 640px;
+  margin-bottom: 33px;
+  font-weight: 900;
+  font-size: 112px;
+  line-height: 1.23;
+}
+
+.banner__desc {
+  margin-bottom: 53px;
+  color: #231300;
+
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 1.45; /* 145.161% */
+  letter-spacing: -0.721px;
+}
+
+.banner__june {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.45; /* 145.161% */
+  letter-spacing: 0.721px;
+}
+
+.banner__terms {
+  margin-bottom: 38px;
+
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 1.45; /* 145.161% */
+  letter-spacing: -0.721px;
 }
 
 .banner__btn-wrapper {
   margin-bottom: 30px;
+}
+
+.banner__btn {
+  padding: 26px 52px;
+  background: #000;
+  border-radius: 10px;
+
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #fff;
 }
