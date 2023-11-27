@@ -81,3 +81,7 @@
   background-color: var(--yellow);
   right: -110px;
 }
+
+.highlight__banner::before {
+  right: -30px;
+}

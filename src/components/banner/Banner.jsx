@@ -11,15 +11,10 @@ const Banner = () => {
           </div>
           <div className="banner__text">
             <div className="banner__title">
-              {/* <span className="highlight">
-                <span>LET’S</span>
+              <span className="highlight highlight__banner">
+                <span>PAYDAY</span>
               </span>
-              EXPLORE
-              <span className="highlight highlight__yellow">
-                <span>UNIQUE</span>
-              </span>
-              CLOTHES. */}
-              PAYDAY SALE NOW
+              SALE NOW
             </div>
             <div className="banner__desc">
               Spend minimal $100 get 30% off voucher code for your next purchase
